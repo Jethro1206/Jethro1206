@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jethro_</h1>
 <h3 align="center">Just an amateur backend developer</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://codeforces.com/userpic.codeforces.org/3284404/title/37cbee88213e49ff.jpg">
+<img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/00/04/d2/0004d277a88ba5eb90ef4b8a076cbf7e.gif">
 - 🔭 I’m currently working on [chtoj](https://oj.thptchuyenhatinh.edu.vn/)
 
 - 🌱 I’m currently learning **python**
