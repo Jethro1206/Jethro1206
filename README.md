@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jethro_</h1>
 <h3 align="center">Just an amateur backend developer</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/00/04/d2/0004d277a88ba5eb90ef4b8a076cbf7e.gif">
+<img align = "center" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/00/04/d2/0004d277a88ba5eb90ef4b8a076cbf7e.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jethro1206" alt="jethro1206" /></a> </p>
 
